@@ -3,11 +3,14 @@
 
 
 
-<h3>It's me!<h3/>
+<h3 align="center">It's me!</h3>
+</br>
 <div align="center">
+  hihi
 </div>
   
-<h3>Skill<h3/>
+<h3 align="center">Skill</h3>
+</br>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">
