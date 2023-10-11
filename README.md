@@ -6,20 +6,20 @@
 
 
 <h2 align="center">👋It's me!👋</h2>
-<div align="center">
+<h3 align="center">
   <h3>Developer</h3>
   <h3>Reverser</h3>
-</div>
+</h3>
   <br/>
 
 
 
   
 <h2 align="center">🛠️Skill🛠️</h2>
-<div align="center">
+<h3 align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">
-</div>
+</h3>
  <br/>
 
 
