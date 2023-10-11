@@ -3,18 +3,11 @@
 
 
 <h3 align="center">My Github State</h3>
-<p align="center">
-<br/>
-
-  <p align="center"> 
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kigma00&theme=vue&show_icons=true"/></a>
 </p>
-  
-</p>
-
-  
-
 <br/>
+
 <h3 align="center">👋It's me!👋</h3>
 <p align="center">
   <a>Developer</a><br/>
