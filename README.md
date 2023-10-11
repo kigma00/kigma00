@@ -8,7 +8,9 @@
   <p>
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kigma00&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   </p>
-  
+  <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kigma00&theme=vue&show_icons=true"/></a>
+</p>
   
 </p>
 
