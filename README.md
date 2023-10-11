@@ -19,10 +19,10 @@
 </p>
   <br/>
 
-<h2 align="center">🛠️Skill🛠️</h2>
-<h3 align="center">
+<h3 align="center">🛠️Skill🛠️</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black">
-</h3>
+</p>
  <br/>
  
