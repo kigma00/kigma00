@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Introduce%20me&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Introduce%20me&fontSize=90)
 👋Hi Welcome G0r4ni8's git!
 
 Skil
