@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=Black&height=300&section=header&text=G0r4ni8's%20Git&fontSize=90)
 
 
-
+<style>
+  h3.text-decoration : none;
+</style>
 
 
 <h2 align="center">👋It's me!👋</h2>
