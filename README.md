@@ -14,8 +14,8 @@
 <br/>
 <h3 align="center">👋It's me!👋</h3>
 <p align="center">
-  <h3>Developer</h3>
-  <h3>Reverser</h3>
+  <a>Developer</a>
+  <a>Reverser</a>
 </p>
   <br/>
 
