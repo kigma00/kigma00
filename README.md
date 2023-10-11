@@ -4,7 +4,7 @@
 
 <h3 align="center">My Github State</h3>
 <p align="center">
-
+<br/>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={github 아이디}&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
@@ -14,7 +14,7 @@
 <br/>
 <h3 align="center">👋It's me!👋</h3>
 <p align="center">
-  <a>Developer</a>
+  <a>Developer</a><br/>
   <a>Reverser</a>
 </p>
   <br/>
