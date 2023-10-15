@@ -5,7 +5,7 @@
 </p>
 <br/>
 
-<h3 align="center">👋It's me!👋</h3>
+<h3 style="backgoroundcolor:black"align="center">👋It's me!👋</h3>
 <p align="center">
   <a>Name : Goranie</a><br/>
   <a>Birth : 2000.??.??</a><br/>  
