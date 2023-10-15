@@ -11,10 +11,13 @@
 <h3 align="center">👋It's me!👋</h3>
 <p align="center">
   <a>Name : Goranie</a><br/>
-  <a>Birth : 2000.??.??</a><br/>
-  
+  <a>Birth : 2000.??.??</a><br/>  
   <a>
 </p>
+
+
+
+<h3 align="center">👋Favorite!👋</h3>
 
 <p align="center">
   <a>Developer</a><br/>
