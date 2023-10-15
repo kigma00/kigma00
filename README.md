@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FFFFFF&height=300&section=header&text=G0r4ni8's%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=00000000&height=300&section=header&text=G0r4ni8's%20Git&fontSize=90)
 
 
 <h3 align="center">My Github State</h3>
