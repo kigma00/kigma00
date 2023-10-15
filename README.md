@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=00000000&height=300&section=header&text=G0r4ni8's%20Git&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0000F00&height=300&section=header&text=G0r4ni8's%20Git&fontSize=70)
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kigma00&theme=dark&show_icons=true"/></a>
 </p>
