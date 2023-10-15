@@ -9,6 +9,7 @@
 <p align="center">
   <a>Name : Goranie</a><br/>
   <a>Birth : 2000.??.??</a><br/>  
+  <a>Edu : JBU University</a><br/> 
   <a>
 </p>
 
