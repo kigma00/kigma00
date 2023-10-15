@@ -9,20 +9,19 @@
 <p align="center">
   <a>Name : Goranie</a><br/>
   <a>Birth : 2000.??.??</a><br/>  
-  <a>Edu : JBU University</a><br/> 
   <a>
 </p>
 
 <h3 align="center">👋Favorite!👋</h3>
-<p align="center">
+<h4 align="center">
   <a>Developer</a><br/>
   <a>Reverser</a>
-</p>
+</h4>
 
 <h3 align="center">🛠️Skill🛠️</h3>
-<p align="center">
+<h4 align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-</p>
+</h4>
  <br/>
  
