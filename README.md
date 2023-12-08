@@ -9,8 +9,8 @@
 
 <h3 align="center">👋Favorite!👋</h3>
 <h4 align="center">
-  <a>Developer</a><br/>
-  <a>Reverser</a>
+  <a>Develop</a><br/>
+  <a>Reversing</a>
 </h4>
 
 <h3 align="center">🛠️Skill🛠️</h3>
