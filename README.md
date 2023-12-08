@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=111111&height=200&section=header&text=G0r4ni8's%20Git&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=111111&height=200&section=header&text=G0R4NI8's%20Git&fontSize=70)
 
 <h3 align="center">👋It's me!👋</h3>
 <p align="center">
