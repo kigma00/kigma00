@@ -4,14 +4,13 @@
 <h3 align="center">👋It's me!👋</h3>
 <p align="center">
   <a>Name : goranie</a><br/>
-  <a>
 </p>
 
 <h3 align="center">👋Favorite!👋</h3>
-<h4 align="center">
+<p align="center">
   <a>Develop</a><br/>
   <a>Reversing</a>
-</h4>
+</p>
 
 <h3 align="center">🛠️Skill🛠️</h3>
 <h4 align="center">
